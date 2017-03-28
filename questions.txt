@@ -1,0 +1,6 @@
+1)The more data that was used, the more accurate the curves got
+2)Usually around the edges, it gets noisier.In places where people often write
+letters differently, the computer probably picks up on those trends and scatters
+the data slightly.
+3) Approximately 10. Anymore than that has little to no effect.
+4) The higher the value, the more accurate it appears. Low C values makes it messy and noisy.
